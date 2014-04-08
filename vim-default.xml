@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="../vim" name="github" review="https://github.com/"/>
+  <remote fetch="../vim" name="local" review="file:////home/michael/work/myvim-ng/vim/"/>
+  
+  <default remote="github" revision="master" sync-j="1"/>
+  
+  <project name="airblade/vim-gitgutter" path="bundle/vim-gitgutter" revision="master" upstream="master"/>
+  <project name="bling/vim-airline" path="bundle/vim-airline" revision="master" upstream="master"/>
+  <project name="jlanzarotta/bufexplorer" path="bundle/bufexplorer" revision="master" upstream="master"/>
+  <project name="msanders/snipmate.vim" path="bundle/snipmate.vim" revision="master" upstream="master"/>
+  <project name="scrooloose/nerdtree" path="bundle/nerdtree" revision="master" upstream="master"/>
+  <project name="tpope/vim-fugitive" path="bundle/vim-fugitive" revision="master" upstream="master"/>
+  <project name="vim-scripts/Colour-Sampler-Pack" path="bundle/Colour-Sampler-Pack" revision="master" upstream="master"/>
+  <project name="scrooloose/nerdtree" path="bundle/nerdtree" revision="master" upstream="master"/>
+  <project name="vim-scripts/Gundo" path="bundle/Gundo" revision="master" upstream="master"/>
+  <project name="scrooloose/nerdtree" path="bundle/nerdtree" revision="master" upstream="master"/>
+  <project name="vim-scripts/OmniCppComplete" path="bundle/OmniCppComplete" revision="master" upstream="master"/>
+</manifest>

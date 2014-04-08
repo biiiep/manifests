@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote fetch="../" name="local" review="file:///home/michael/work/myvim/"/>
   <remote fetch="../" name="github" review="https://github.com/"/>
   
   <default remote="github" revision="master" sync-j="1"/>
   
+  <project path="vim" name="vim" repository="vim" revision="master" upstream="master"/>
   <project path="bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
   <project path="bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
   <project path="bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>

@@ -4,7 +4,7 @@
   
   <default remote="github" revision="master" sync-j="1"/>
 
-  <project path="vim" name="biiiep/myvim.git" />
+  <project path="vim" name="biiiep/myvim.git" revision="ng" />
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
   <project path="vim/bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>

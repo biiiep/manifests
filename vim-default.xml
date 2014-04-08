@@ -4,13 +4,13 @@
   
   <default remote="github" revision="master" sync-j="1"/>
   
-  <project name="airblade/vim-gitgutter" path="bundle/vim-gitgutter" revision="master" upstream="master"/>
-  <project name="bling/vim-airline" path="bundle/vim-airline" revision="master" upstream="master"/>
-  <project name="jlanzarotta/bufexplorer" path="bundle/bufexplorer" revision="master" upstream="master"/>
-  <project name="msanders/snipmate.vim" path="bundle/snipmate.vim" revision="master" upstream="master"/>
-  <project name="scrooloose/nerdtree" path="bundle/nerdtree" revision="master" upstream="master"/>
-  <project name="tpope/vim-fugitive" path="bundle/vim-fugitive" revision="master" upstream="master"/>
-  <project name="vim-scripts/Colour-Sampler-Pack" path="bundle/Colour-Sampler-Pack" revision="master" upstream="master"/>
-  <project name="vim-scripts/Gundo" path="bundle/Gundo" revision="master" upstream="master"/>
-  <project name="vim-scripts/OmniCppComplete" path="bundle/OmniCppComplete" revision="master" upstream="master"/>
+  <project path="bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
+  <project path="bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
+  <project path="bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>
+  <project path="bundle/snipmate.vim" name="msanders/snipmate.vim" revision="master" upstream="master"/>
+  <project path="bundle/nerdtree" name="scrooloose/nerdtree" revision="master" upstream="master"/>
+  <project path="bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
+  <project path="bundle/colour-sampler-pack" name="vim-scripts/colour-sampler-pack" revision="master" upstream="master"/>
+  <project name="vim-scripts/gundo" path="bundle/gundo" revision="master" upstream="master"/>
+  <project name="vim-scripts/omnicppcomplete" path="bundle/omnicppcomplete" revision="master" upstream="master"/>
 </manifest>

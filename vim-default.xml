@@ -12,8 +12,6 @@
   <project name="scrooloose/nerdtree" path="bundle/nerdtree" revision="master" upstream="master"/>
   <project name="tpope/vim-fugitive" path="bundle/vim-fugitive" revision="master" upstream="master"/>
   <project name="vim-scripts/Colour-Sampler-Pack" path="bundle/Colour-Sampler-Pack" revision="master" upstream="master"/>
-  <project name="scrooloose/nerdtree" path="bundle/nerdtree" revision="master" upstream="master"/>
   <project name="vim-scripts/Gundo" path="bundle/Gundo" revision="master" upstream="master"/>
-  <project name="scrooloose/nerdtree" path="bundle/nerdtree" revision="master" upstream="master"/>
   <project name="vim-scripts/OmniCppComplete" path="bundle/OmniCppComplete" revision="master" upstream="master"/>
 </manifest>

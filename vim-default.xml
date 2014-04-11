@@ -8,7 +8,7 @@
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
   <project path="vim/bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>
-  <project path="vim/bundle/snipmate.vim" name="msanders/snipmate.vim" revision="master" upstream="master"/>
+  <project path="vim/bundle/snipmate.vim" name="biiiep/snipmate.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/nerdtree" name="scrooloose/nerdtree" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
   <project path="vim/bundle/colour-sampler-pack" name="vim-scripts/colour-sampler-pack" revision="master" upstream="master"/>

@@ -14,4 +14,5 @@
   <project path="vim/bundle/colour-sampler-pack" name="vim-scripts/colour-sampler-pack" revision="master" upstream="master"/>
   <project path="vim/bundle/gundo" name="vim-scripts/gundo" revision="master" upstream="master"/>
   <project path="vim/bundle/omnicppcomplete" name="vim-scripts/omnicppcomplete" revision="master" upstream="master"/>
+  <project path="vim/bundle/ctrlp" name="kien/ctrlp.vim.git" revision="master" upstream="master"/>
 </manifest>

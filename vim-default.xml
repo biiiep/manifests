@@ -4,7 +4,7 @@
   
   <default remote="github" revision="master" sync-j="1"/>
 
-  <project path="vim" name="biiiep/myvim.git" revision="ng" />
+  <project path="vim" name="biiiep/myvim" revision="ng" />
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
   <project path="vim/bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>
@@ -13,7 +13,7 @@
   <project path="vim/bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
   <project path="vim/bundle/colour-sampler-pack" name="vim-scripts/colour-sampler-pack" revision="master" upstream="master"/>
   <project path="vim/bundle/gundo" name="vim-scripts/gundo" revision="master" upstream="master"/>
-  <project path="vim/bundle/taglist" name="vim-scripts/taglist.vim.git" revision="master" upstream="master"/>
+  <project path="vim/bundle/taglist" name="vim-scripts/taglist.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/omnicppcomplete" name="vim-scripts/omnicppcomplete" revision="master" upstream="master"/>
-  <project path="vim/bundle/ctrlp" name="kien/ctrlp.vim.git" revision="master" upstream="master"/>
+  <project path="vim/bundle/ctrlp" name="kien/ctrlp.vim" revision="master" upstream="master"/>
 </manifest>

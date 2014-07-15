@@ -16,4 +16,5 @@
   <project path="vim/bundle/taglist" name="vim-scripts/taglist.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/omnicppcomplete" name="vim-scripts/omnicppcomplete" revision="master" upstream="master"/>
   <project path="vim/bundle/ctrlp" name="kien/ctrlp.vim" revision="master" upstream="master"/>
+  <project path="vim/bundle/cscope" name="biiiep/cscope.vim" revision="master" upstream="master"/>
 </manifest>

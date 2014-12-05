@@ -17,4 +17,6 @@
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
+  <project path="vim/bundle/python-mode" name="klen/python-mode.git" revision="master" upstream="master"/>
+
 </manifest>

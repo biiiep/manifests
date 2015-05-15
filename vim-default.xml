@@ -12,6 +12,7 @@
   <project path="vim/bundle/gundo" name="vim-scripts/gundo" revision="master" upstream="master"/>
   <project path="vim/bundle/nerdtree" name="scrooloose/nerdtree" revision="master" upstream="master"/>
   <project path="vim/bundle/omnicppcomplete" name="vim-scripts/omnicppcomplete" revision="master" upstream="master"/>
+  <project path="vim/bundle/python-mode" name="klen/python-mode" revision="master" upstream="master"/>
   <project path="vim/bundle/snipmate.vim" name="biiiep/snipmate.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/taglist" name="vim-scripts/taglist.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>

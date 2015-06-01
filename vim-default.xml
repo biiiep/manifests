@@ -18,4 +18,5 @@
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
+  <project path="vim/bundle/vim-go" name="fatih/vim-go.git" revision="master" upstream="master"/>
 </manifest>

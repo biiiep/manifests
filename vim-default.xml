@@ -14,10 +14,13 @@
   <project path="vim/bundle/nerdtree" name="scrooloose/nerdtree" revision="master" upstream="master"/>
   <project path="vim/bundle/omnicppcomplete" name="vim-scripts/omnicppcomplete" revision="master" upstream="master"/>
   <project path="vim/bundle/python-mode" name="klen/python-mode" revision="master" upstream="master"/>
-  <project path="vim/bundle/snipmate.vim" name="biiiep/snipmate.vim" revision="master" upstream="master"/>
+  <!--project path="vim/bundle/snipmate.vim" name="biiiep/snipmate.vim" revision="master" upstream="master"/-->
   <project path="vim/bundle/taglist" name="vim-scripts/taglist.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-go" name="fatih/vim-go.git" revision="master" upstream="master"/>
+  <project path="vim/bundle/vim-snippets" name="honza/vim-snippets.git" revision="master" upstream="master"/>
+  <project path="vim/bundle/rust-lang" name="rust-lang/rust.vim.git" revision="master" upstream="master"/>
+  <project path="vim/bundle/ultisnips" name="SirVer/ultisnips.git" revision="master" upstream="master"/>
 </manifest>

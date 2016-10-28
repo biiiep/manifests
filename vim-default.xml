@@ -7,7 +7,7 @@
 
   <project path="vim" name="biiiep/myvim" revision="ng" />
   <project path="vim/bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>
-  <project path="vim/bundle/colour-sampler-pack" name="vim-scripts/colour-sampler-pack" revision="master" upstream="master"/>
+  <project path="vim/bundle/colour-sampler-pack" name="biiiep/Colour-Sampler-Pack" revision="my_schemes" upstream="my_schemes"/>
   <project path="vim/bundle/cscope" name="biiiep/cscope.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/ctrlp" name="kien/ctrlp.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/gundo" name="vim-scripts/gundo" revision="master" upstream="master"/>

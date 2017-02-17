@@ -3,12 +3,13 @@
 	<remote fetch="ssh://git@github.com/" name="github" review="https://github.com/"/>
 	<!--remote fetch="https://github.com/" name="github" review="https://github.com/"/-->
   
-  <default remote="github" revision="master" sync-j="1"/>
+  <default remote="github" revision="master" sync-j="16"/>
 
   <project path="vim" name="biiiep/myvim" revision="clang_complete" />
   <project path="vim/bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>
   <project path="vim/bundle/clang_complete" name="Rip-Rip/clang_complete" revision="master" upstream="master"/>
   <project path="vim/bundle/colour-sampler-pack" name="biiiep/Colour-Sampler-Pack" revision="my_schemes" upstream="my_schemes"/>
+  <project path="vim/bundle/conquegdb" name="vim-scripts/Conque-GDB" revision="master" upstream="master"/>
   <project path="vim/bundle/cscope" name="biiiep/cscope.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/ctrlp" name="kien/ctrlp.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/gundo" name="vim-scripts/gundo" revision="master" upstream="master"/>

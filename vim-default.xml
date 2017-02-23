@@ -21,6 +21,7 @@
   <project path="vim/bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-go" name="fatih/vim-go" revision="master" upstream="master"/>
+  <project path="vim/bundle/vim-racer" name="racer-rust/vim-racer" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-snippets" name="biiiep/vim-snippets" revision="master" upstream="master"/>
   <project path="vim/bundle/ultisnips" name="SirVer/ultisnips" revision="master" upstream="master"/>
 </manifest>

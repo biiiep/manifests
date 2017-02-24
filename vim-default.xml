@@ -12,7 +12,7 @@
   <project path="vim/bundle/conquegdb" name="vim-scripts/Conque-GDB" revision="master" upstream="master"/>
   <project path="vim/bundle/cscope" name="biiiep/cscope.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/ctrlp" name="kien/ctrlp.vim" revision="master" upstream="master"/>
-  <project path="vim/bundle/gundo" name="vim-scripts/gundo" revision="master" upstream="master"/>
+  <project path="vim/bundle/mundo" name="simnalamburt/vim-mundo" revision="master" upstream="master"/>
   <project path="vim/bundle/nerdtree" name="scrooloose/nerdtree" revision="master" upstream="master"/>
   <project path="vim/bundle/python-mode" name="klen/python-mode" revision="master" upstream="master"/>
   <project path="vim/bundle/rust-lang" name="rust-lang/rust.vim" revision="master" upstream="master"/>

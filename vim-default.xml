@@ -5,7 +5,7 @@
   
   <default remote="github" revision="master" sync-j="16"/>
 
-  <project path="vim" name="biiiep/myvim" revision="master" />
+  <project path="vim" name="biiiep/myvim" revision="master-nvim" />
   <project path="vim/bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>
   <project path="vim/bundle/clang_complete" name="Rip-Rip/clang_complete" revision="master" upstream="master"/>
   <project path="vim/bundle/colour-sampler-pack" name="biiiep/Colour-Sampler-Pack" revision="my_schemes" upstream="my_schemes"/>

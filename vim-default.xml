@@ -3,7 +3,7 @@
 	<remote fetch="ssh://git@github.com/" name="github" review="https://github.com/"/>
 	<!--remote fetch="https://github.com/" name="github" review="https://github.com/"/-->
   
-  <default remote="github" revision="master" sync-j="16"/>
+  <default remote="github" revision="master" sync-j="4"/>
 
   <project path="vim" name="biiiep/myvim" revision="master-nvim" />
   <project path="vim/bundle/bufexplorer" name="jlanzarotta/bufexplorer" revision="master" upstream="master"/>

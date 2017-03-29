@@ -19,6 +19,7 @@
   <project path="vim/bundle/rust-lang" name="rust-lang/rust.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/taglist" name="vim-scripts/taglist.vim" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-airline" name="bling/vim-airline" revision="master" upstream="master"/>
+  <project path="vim/bundle/vim-colors-solarized" name="altercation/vim-colors-solarized" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-fugitive" name="tpope/vim-fugitive" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-gitgutter" name="airblade/vim-gitgutter" revision="master" upstream="master"/>
   <project path="vim/bundle/vim-go" name="fatih/vim-go" revision="master" upstream="master"/>
